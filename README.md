@@ -1,3 +1,3 @@
 # text-entity-analysis
 A convenient way to compare entity anlysis between content
-![Alt Text](https://giphy.com/gifs/jOcBoZeBf8AgBtC4ax)
+![Alt Text](https://media.giphy.com/media/jOcBoZeBf8AgBtC4ax/giphy.gif)
