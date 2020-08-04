@@ -12,7 +12,7 @@ Text Entity Analysis is a web tool that provides a convenient way to compare ent
 ## Clone
 Clone this repo to your local machine using https://github.com/AJBenjumea/text-entity-analysis.git
 
-##Setup
+## Setup
 Install npm packages
 ```bash
 npm install
