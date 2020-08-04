@@ -17,6 +17,12 @@ Install npm packages
 ```bash
 npm install
 ```
-> create a Natural Langage API key
 
+Create a Natural Langage API key
 If you don't already have one, you'll need to create a project in Google Cloud Console and enable the Cloud Natural Language API for your project. You can then [creat an API key](https://cloud.google.com/docs/authentication/api-keys#creating_an_api_key).
+
+## Configuration
+Create a .env file and set the following variables:
+- API_KEY: Set this to your Natural Language API key
+- PORT_A: Set this to the port you want server to run on  
+- API_PATH: Can be local path and port -> http://127.0.0.1:PORT
