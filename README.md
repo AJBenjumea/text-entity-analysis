@@ -18,4 +18,5 @@ Install npm packages
 npm install
 ```
 > create a Natural Langage API key
+
 If you don't already have one, you'll need to create a project in Google Cloud Console and enable the Cloud Natural Language API for your project. You can then [creat an API key](https://cloud.google.com/docs/authentication/api-keys#creating_an_api_key).
