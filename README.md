@@ -1,5 +1,5 @@
 # Text Entity Analysis
-Text Entity Analysis is a web tool that provides a convenient way to compare entity anlysis metrics between webpage content.
+Text Entity Analysis is a web tool that provides a convenient way to compare entity metrics between webpage content.
 - Uses Googles Natual Language API
 - Side by side entity cards for top 10 words by salience
 - other 
