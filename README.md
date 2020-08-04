@@ -9,7 +9,12 @@ Text Entity Analysis is a web tool that provides a convenient way to compare ent
 ![Alt Text](https://media.giphy.com/media/jOcBoZeBf8AgBtC4ax/giphy.gif)
 
 
-## Installation
+## Clone
+Clone this repo to your local machine using https://github.com/AJBenjumea/text-entity-analysis.git
+
+##Setup
+Install npm packages
 ```bash
 npm install
 ```
+If you don't already have one, you'll need to create a project in Google Cloud Console and enable the Cloud Natural Language API for your project. You can then [creat an API key](https://cloud.google.com/docs/authentication/api-keys#creating_an_api_key).
