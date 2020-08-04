@@ -25,4 +25,10 @@ If you don't already have one, you'll need to create a project in Google Cloud C
 Create a .env file and set the following variables:
 - API_KEY: Set this to your Natural Language API key
 - PORT_A: Set this to the port you want server to run on  
-- API_PATH: Can be local path and port -> http://127.0.0.1:PORT
+- API_PATH: Can be local path and server port
+
+## Contributing 
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+##License
+[MIT](https://choosealicense.com/licenses/mit/)
